@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ajiththodar12/DevOn_Project/_apis/build/status/tapai24.media-services-v3-dotnet-core-tutorials?branchName=master)](https://dev.azure.com/ajiththodar12/DevOn_Project/_build/latest?definitionId=1&branchName=master)
 ---
 page_type: sample
 languages:
